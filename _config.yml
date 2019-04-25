@@ -26,8 +26,8 @@ baseurl: ""
 #  - https://weibo.com/1970385015/
 
 # Sitemap (see sitemap.xml)
-sitemap:
-  changefreq: weekly
+#sitemap:
+#  changefreq: weekly
 
 # Build settings
 exclude: ['README.md', 'Makefile']
@@ -49,8 +49,8 @@ defaults:
       class: post
 
 # Plugins
-plugins:
-- jekyll-sitemap
+# plugins:
+# - jekyll-sitemap
 
 # Multiligual
 lang:
