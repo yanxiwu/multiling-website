@@ -7,6 +7,8 @@ image: /files/images/china-street.jpg
 
 My translation examples, stacked:
 
+here another change from me. 
+
 ---
 
 The Tao that can be trodden is not the enduring and
